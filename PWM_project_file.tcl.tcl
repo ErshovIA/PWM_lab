@@ -514,6 +514,8 @@ puts "----------IMPL1 COMPLETED SUCCESS-----------"
 #wait_on_run impl_1
 #puts "----------BITSTREAM COMPLETED SUCCESS-----------"
 
+puts "__HELLO_WORLD__"
+
 
 
 start_gui
